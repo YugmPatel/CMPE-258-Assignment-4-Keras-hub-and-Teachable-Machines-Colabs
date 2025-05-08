@@ -1,4 +1,4 @@
-# CMPE-258-Keras-hub-and-Teachable-Machines-Colabs
+# CMPE-258-Assignment-4-Keras-hub-and-Teachable-Machines-Colabs
 
 ## **Project Overview**  
 
