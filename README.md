@@ -109,4 +109,4 @@ Each implementation will be explained in a **YouTube video**, where I walk throu
 ✅ How to **modify** and improve the model  
 ✅ The **final results and evaluation**  
 
-[🔗 YouTube Playlist (To be updated)](https://youtube.com/)  
+[🔗 YouTube Video Link](https://youtu.be/VrjADoPz7fw)  
